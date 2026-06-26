@@ -36,5 +36,5 @@ src/ipc_cmd/ipc_cmd/ipc_multiplexer.o
 src/ipc_cmd/ipc_cmd/ipc_read
 src/ipc_cmd/ipc_cmd/ipc_read.o
 
-
-
+# SpecStory: keep AI session transcripts out of this public repo
+.specstory/
